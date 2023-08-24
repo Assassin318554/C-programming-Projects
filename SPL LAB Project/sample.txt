@@ -1,0 +1,281 @@
+40
+
+Virat Kohli
+32
+Batsman
+254
+12169
+183
+
+Kane Williamson
+31
+Batsman
+157
+6173
+148
+
+Steve Smith
+32
+Batsman
+128
+4423
+164
+
+Babar Azam
+26
+Batsman
+83
+3808
+125
+
+Joe Root
+31
+Batsman
+155
+6163
+133
+
+David Warner
+34
+Batsman
+128
+5456
+179
+
+Rohit Sharma
+34
+Batsman
+227
+9205
+264
+
+Quinton de Kock
+28
+Wicket-keeper/Batsman
+122
+3828
+178
+
+Jos Buttler
+31
+Wicket-keeper/Batsman
+155
+3874
+150
+
+Faf du Plessis
+36
+Batsman
+143
+5507
+185
+
+Chris Gayle
+42
+Batsman
+301
+10480
+215
+
+Hashim Amla
+38
+Batsman
+181
+8113
+159
+
+Martin Guptill
+35
+Batsman
+184
+6876
+237
+
+Eoin Morgan
+35
+Batsman
+241
+7563
+148
+
+Aaron Finch
+34
+Batsman
+127
+5059
+153
+
+Shikhar Dhawan
+35
+Opening Batsman
+143
+5977
+143
+
+Jason Roy
+31
+Opening Batsman
+89
+3164
+180
+
+Jonny Bairstow
+32
+Wicket-keeper/Batsman
+86
+3453
+141
+
+Tamim Iqbal Khan
+33
+Opening Batsman
+235
+8146
+158
+
+Imam-ul-Haq
+25
+Opening Batsman
+35
+1387
+151
+
+Mohammad Hafeez
+41
+Allrounder
+218
+6614
+140
+
+Shakib Al Hasan
+35
+Allrounder
+228
+7069
+134
+
+Ben Stokes
+30
+Allrounder
+96
+2592
+102
+
+Hardik Pandya
+28
+Allrounder
+60
+1335
+92
+
+Andre Russell
+33
+Allrounder
+65
+1017
+92
+
+Mitchell Starc
+32
+Bowler
+97
+1587
+71
+
+Jasprit Bumrah
+28
+Bowler
+64
+1195
+420
+
+Trent Boult
+32
+Bowler
+99
+1269
+734
+
+Kagiso Rabada
+26
+Bowler
+79
+1345
+616
+
+Pat Cummins
+28
+Bowler
+77
+662
+570
+
+Shaheen Afridi
+21
+Bowler
+30
+52
+635
+
+Mustafizur Rahman
+25
+Bowler
+68
+128
+643
+
+Jofra Archer
+26
+Bowler
+13
+31
+323
+
+Yuzvendra Chahal
+31
+Bowler
+54
+92
+642
+
+Rashid Khan
+22
+Bowler
+77
+127
+53
+
+Mujeeb Ur Rahman
+20
+Bowler
+44
+68
+415
+
+Shadab Khan
+22
+Allrounder
+55
+734
+432
+
+Adil Rashid
+33
+Bowler
+109
+149
+527
+
+Mitchell Marsh
+30
+Allrounder
+63
+1271
+86
+
+Marcus Stoinis
+32
+Allrounder
+44
+1273
+87
